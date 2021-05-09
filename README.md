@@ -23,10 +23,10 @@ Para executar a aplicação é necessário instalar algumas ferramentas tais com
 
 ```bash
 # Baixe o repositório.
-$ git clone https://github.com/Ricnaga/desafioReactConceitos.git
+$ git clone https://github.com/Ricnaga/desafio-react-conceitos.git
 
 # Acesse a pasta do projeto.
-$ cd desafioReactConceitos
+$ cd desafio-react-conceitos
 
 # Agora que baixou e acessou o repositório, vamos começar a instalação das dependências.
 $ yarn ( caso não utilize o yarn execute apenas npm -i)
